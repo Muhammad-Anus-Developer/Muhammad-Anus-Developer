@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Muhammad-Anus-Developer.
-- 👀 I’m interested in making websits.
+- 👀 I’m interested in making websites.
 - 🌱 I’m currently learning React.
 - 💞️ I’m looking to collaborate on GitHub.
 - 📫 How to reach me anasafzal779@gmail.com
