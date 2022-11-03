@@ -1,3 +1,5 @@
+[![@m_anus's Holopin board](https://holopin.me/m_anus)](https://holopin.io/@m_anus)
+
 # 💫 About Me:
 <br>- 👋 Hi everyone! my name is **Muhammad Anus S/O Muhammad Afzal**<br><br>- 🔭 I’m currently working on **a MERN Site**<br><br>- 🌱 I’m currently learning **some new frameworks.**<br><br>- 💬 Ask me about **JS, React,React Native, etc**<br><br>- 📫 How to reach me **anasafzal779@gmail.com** <p align="center">
 <img src="https://user-images.githubusercontent.com/80568552/197876244-cca57fd1-52bd-4910-9fb3-20b95199c532.gif" style="width:60vh;">
@@ -14,5 +16,7 @@
 ## ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gruvbox)
 
----
+## 👀 Total Profile Views
 [![](https://visitcount.itsvg.in/api?id=muhammad-anus-developer&icon=3&color=8)](https://visitcount.itsvg.in)
+
+---
