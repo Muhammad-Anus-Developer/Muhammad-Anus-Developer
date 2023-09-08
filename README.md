@@ -1,7 +1,7 @@
 [![@m_anus's Holopin board](https://holopin.me/m_anus)](https://holopin.io/@m_anus)
 
 # 💫 About Me:
-<br>- 👋 Hi everyone! my name is **Muhammad Anus S/O Muhammad Afzal**<br><br>- 🔭 I’m currently working on **a MERN Site**<br><br>- 🌱 I’m currently learning **Web 3.0.**<br><br>- 💬 Ask me about **JS, React, React Native, NodeJS, ExpressJS, etc**<br><br>- 📫 How to reach me **anasafzal779@gmail.com** <p align="center">
+<br>- 👋 Hi everyone! my name is **Muhammad Anus S/O Muhammad Afzal**<br><br>- 🔭 I’m currently working on multiple sites including **a MERN Application, Flask API Service, React Redux Admin Panel**<br><br>- 🌱 I’m currently learning **Web 3.0**<br><br>- 💬 Ask me about **JS, React, React Native, NodeJS, ExpressJS, Python, NextJS**<br><br>- 📫 How to reach me **anasafzal779@gmail.com** <p align="center">
 <img src="https://user-images.githubusercontent.com/80568552/197876244-cca57fd1-52bd-4910-9fb3-20b95199c532.gif" style="width:60vh;">
 </p><br><br>
 
